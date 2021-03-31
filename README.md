@@ -1,4 +1,5 @@
-#Mechanical Strength of *Acropora cervicornis* Grown on 2 Different Coral Restoration Nursery Platforms
+#Mechanical Strength of Acropora cervicornis Grown on 2 Different Coral Restoration Nursery Platforms
+
 Here, I investigated the mechanical strength of the threatened staghorn coral to understand how nursery structures influence the structural integrity of the corals and the implications of this mechanical strength for coral restoration projects.
 
 This thesis was born out of a collaborative University of Miami U-LINK grant to explore the efficacy of increasing the coastal resilience of Miami Beach through the design and implementation of living shorelines. Working with a team of ecologists, oceanographers, and engineers, I designed this project to build upon previous restoration ecology research to better understand the structural properties and mechanical strength of nursery-raised Acropora cervicornis. This project was additionally supported by the Dr. Linda Farmer Undegraduate Research Grant ($2,500).
