@@ -4,7 +4,7 @@ Here, I investigated the mechanical strength of the threatened staghorn coral to
 
 This thesis was born out of a collaborative [University of Miami U-LINK grant](https://ulink.miami.edu/projects/index.html#coastal-resilience) to explore the efficacy of increasing the coastal resilience of Miami Beach through the design and implementation of living shorelines. Working with a team of ecologists, oceanographers, and engineers, I designed this project to build upon previous restoration ecology research to better understand the structural properties and mechanical strength of nursery-raised Acropora cervicornis. This project was additionally supported by the Dr. Linda Farmer Undegraduate Research Grant ($2,500).
 
-![Coral Flexural Testing](./images/flexural-testing.jpg?raw=true)
+![Coral Flexural Testing](./images/flexural-testing.jpg)
 
 
 ## Abstract
